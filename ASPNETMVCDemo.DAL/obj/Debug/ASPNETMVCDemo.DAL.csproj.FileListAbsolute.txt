@@ -1,0 +1,14 @@
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\bin\Debug\ASPNETMVCDemo.DAL.dll.config
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\bin\Debug\ASPNETMVCDemo.DAL.dll
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\bin\Debug\ASPNETMVCDemo.DAL.pdb
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\bin\Debug\ASPNETMVCDemo.Entity.dll
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\bin\Debug\EntityFramework.dll
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\bin\Debug\ASPNETMVCDemo.Entity.pdb
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\bin\Debug\EntityFramework.xml
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\obj\Debug\ASPNETMVCDemo.DAL.csprojResolveAssemblyReference.cache
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\obj\Debug\ASPNETMVCDemo.DAL.dll
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\obj\Debug\ASPNETMVCDemo.DAL.pdb
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\obj\Debug\ASPNETMVCDemo.DAL.Migrations.FirstCreate.resources
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.DAL\obj\Debug\ASPNETMVCDemo.DAL.csproj.GenerateResource.Cache

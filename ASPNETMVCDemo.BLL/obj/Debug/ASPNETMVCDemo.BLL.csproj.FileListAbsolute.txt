@@ -1,0 +1,5 @@
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.BLL\bin\Debug\ASPNETMVCDemo.BLL.dll
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.BLL\bin\Debug\ASPNETMVCDemo.BLL.pdb
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.BLL\obj\Debug\ASPNETMVCDemo.BLL.dll
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.BLL\obj\Debug\ASPNETMVCDemo.BLL.pdb
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.BLL\obj\Debug\ASPNETMVCDemo.BLL.csprojResolveAssemblyReference.cache

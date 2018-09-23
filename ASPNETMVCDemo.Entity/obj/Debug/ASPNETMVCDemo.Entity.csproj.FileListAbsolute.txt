@@ -1,0 +1,5 @@
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.Entity\bin\Debug\ASPNETMVCDemo.Entity.dll
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.Entity\bin\Debug\ASPNETMVCDemo.Entity.pdb
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.Entity\obj\Debug\ASPNETMVCDemo.Entity.dll
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.Entity\obj\Debug\ASPNETMVCDemo.Entity.pdb
+C:\Users\burakcpc\Desktop\Github\ASPNET_MVC_Demo_Project_Github\ASPNET_MVC_Demo_Project\ASPNETMVCDemo\ASPNETMVCDemo.Entity\obj\Debug\ASPNETMVCDemo.Entity.csprojResolveAssemblyReference.cache
